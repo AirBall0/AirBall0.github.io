@@ -1,13 +1,15 @@
 ---
-title: "Talk 2 on Relevant Topic in Your Field"
-collection: talks
-type: "Talk"
-permalink: /talks/2014-02-01-talk-2
-venue: "London School of Testing"
-date: 2014-02-01
-location: "London, UK"
+title: "Physics-aware Real-time Human motion optimization based mmWave Radar device"
+collection: experience
+type: "Intern"
+permalink: /experience/2023_intern
+venue: "University of North Carolina at Charlotte (UNCC)"
+date: 2023-11-01
+location: "China, Nanjing"
 ---
 
-[More information here](http://example2.com)
+– Design a plug-and-play physics-based optimization module according to the physical characteristics of human movement.\
+– Module can refined the point cloud data collected by millimeter-wave radar based on the characteristics of human movement to meet the physical constraints
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+![physics-aware](../images/optim.png)\
+*Framework*
