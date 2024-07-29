@@ -8,5 +8,5 @@ date: 2024-03-20
 
 ---
 
-– Designing and verifying a signal enhancement and physical augmentation framework based on Reinforcement Learning, which will not only enhance the generalization of the model and solve\ many unseen activities of the dataset, but also add real physical constraints of the human body through reinforcement learning methods.
+– Designing and verifying a signal enhancement and physical augmentation framework based on Reinforcement Learning, which will not only enhance the generalization of the model and solve\ many unseen activities of the dataset, but also add real physical constraints of the human body through Reinforcement Learning methods.
 
