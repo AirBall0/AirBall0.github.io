@@ -2,7 +2,7 @@
 title: "Signal enhancement and physical augmentation framework based on Reinforcement Learning"
 collection: experience
 type: "Intern"
-permalink: /experience/2023_intern
+permalink: /experience/2024_intern
 venue: "University of North Carolina at Charlotte (UNCC)"
 date: 2024-03-20
 
