@@ -8,9 +8,8 @@ date: 2022-09-01
 location: "Naning, China"
 ---
 
-Reward:\
-First-class academic scholarship in Nanjing University of Aeronautics and Astronautics
-
+**Reward:**
+1. First-class academic scholarship in Nanjing University of Aeronautics and Astronautics
 
 
 
