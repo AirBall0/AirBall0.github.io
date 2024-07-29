@@ -8,7 +8,7 @@ date: 2017-09-01
 location: "Kunming, China"
 ---
 
-Reward:\
-1.Outstanding graduate student in Kunming University of Science and Technology\
-2.Second prize national mathematical modeling competition\
-3.School-level scholarships
+<strong><big>Reward:</big></strong>\
+<strong><big>1. Outstanding graduate student in Kunming University of Science and Technology\</big></strong>\
+<strong><big>2. Second prize national mathematical modeling competition\</big></strong>\
+<strong><big>3. School-level scholarships</big></strong>
