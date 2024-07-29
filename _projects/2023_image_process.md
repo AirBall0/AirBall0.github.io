@@ -1,8 +1,8 @@
 ---
 title: "Blind multi-Poissonian image deconvolution with sparse log-step gradient prior "
-collection: experience
+collection: porjects
 type: "Lab Research"
-permalink: /experience/2023_image_process
+permalink: /porjects/2023_image_process
 venue: "Nanjing University of Aeronautics and Astronautics, department of Automation"
 date: 2023-02-16
 location: "China, Nanjing"

@@ -1,8 +1,8 @@
 ---
 title: "Physics-aware Real-time Human motion optimization based mmWave Radar device [more]"
-collection: experience
+collection: porjects
 type: "Intern"
-permalink: /experience/2023_intern
+permalink: /porjects/2023_intern
 venue: "University of North Carolina at Charlotte (UNCC)"
 date: 2023-11-01
 
