@@ -1,5 +1,5 @@
 ---
-title: "Physics-aware Real-time Human motion optimization based mmWave Radar device [more]"
+title: "[more] Physics-aware Real-time Human motion optimization based mmWave Radar device"
 collection: projects
 type: "Intern"
 permalink: /projects/2023_intern

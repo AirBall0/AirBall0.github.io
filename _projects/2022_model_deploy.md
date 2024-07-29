@@ -1,5 +1,5 @@
 ---
-title: "Deep learning model deployment based on NVIDIA Jetson AGX Orin [more]"
+title: "[more] Deep learning model deployment based on NVIDIA Jetson AGX Orin"
 collection: projects
 type: "Lab Project"
 permalink: /projects/2022_model_deploy
