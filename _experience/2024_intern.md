@@ -1,15 +1,12 @@
 ---
-title: "Physics-aware Real-time Human motion optimization based mmWave Radar device"
+title: "Signal enhancement and physical augmentation framework based on Reinforcement Learning"
 collection: experience
 type: "Intern"
 permalink: /experience/2023_intern
 venue: "University of North Carolina at Charlotte (UNCC)"
-date: 2023-11-01
-location: "China, Nanjing"
+date: 2024-03-20
+
 ---
 
-– Design a plug-and-play physics-based optimization module according to the physical characteristics of human movement.\
-– Module can refined the point cloud data collected by millimeter-wave radar based on the characteristics of human movement to meet the physical constraints
+– Designing and verifying a signal enhancement and physical augmentation framework based on Reinforcement Learning, which will not only enhance the generalization of the model and solve\ many unseen activities of the dataset, but also add real physical constraints of the human body through reinforcement learning methods.
 
-![physics-aware](../images/optim.png)\
-*Framework*
