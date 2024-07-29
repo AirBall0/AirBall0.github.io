@@ -1,8 +1,8 @@
 ---
 title: "Undergraduate"
-collection: teaching
+collection: education
 type: "Rail transit signaling and control"
-permalink: /teaching/2017_Undergraduate
+permalink: /education/2017_Undergraduate
 venue: "Kunming Universuty of Science and Technology, School of Information Engineering and Automatization "
 date: 2017-09-01
 location: "Kunming, China"
