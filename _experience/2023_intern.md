@@ -4,7 +4,7 @@ collection: experience
 type: "experience"
 permalink: /experience/2023_intern
 venue: "University of North Carolina at Charlotte (UNCC)"
-date: 2023-11-01--2024-02-01
+date: 2023-11-01
 location: "China, Nanjing"
 ---
 
