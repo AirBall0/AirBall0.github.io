@@ -1,8 +1,8 @@
 ---
 title: "Deep learning model deployment based on NVIDIA Jetson AGX Orin [more]"
-collection: porjects
+collection: projects
 type: "Lab Project"
-permalink: /porjects/2022_model_deploy
+permalink: /projects/2022_model_deploy
 venue: "Nanjing University of Aeronautics and Astronautics, department of Automation"
 date: 2022-09-01
 location: "China, Nanjing"

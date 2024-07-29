@@ -1,8 +1,8 @@
 ---
 title: "Signal enhancement and physical augmentation framework based on Reinforcement Learning"
-collection: porjects
+collection: projects
 type: "Intern"
-permalink: /porjects/2024_intern
+permalink: /projects/2024_intern
 venue: "University of North Carolina at Charlotte (UNCC)"
 date: 2024-03-20
 
