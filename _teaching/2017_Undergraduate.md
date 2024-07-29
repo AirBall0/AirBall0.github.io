@@ -7,7 +7,7 @@ venue: "Kunming Universuty of Science and Technology, School of Information Engi
 date: 2017-09-01
 location: "Kunming, China"
 ---
-**Reward:**
-1. Outstanding graduate student in Kunming University of Science and Technology
-2. Second prize national mathematical modeling competition
-3. School-level scholarships
+**Award:**
+1. Outstanding graduate student in Kunming University of Science and Technology --2021
+2. Second prize national mathematical modeling competition --2019
+3. School-level scholarships --2017~2022
