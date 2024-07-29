@@ -1,11 +1,11 @@
 ---
 title: "Physics-aware Real-time Human motion optimization based mmWave Radar device"
 collection: experience
-type: "experience"
+type: "Intern"
 permalink: /experience/2023_intern
 venue: "University of North Carolina at Charlotte (UNCC)"
 date: 2023-11-01
-location: "China, Nanjing"
+
 ---
 
 – Design a plug-and-play physics-based optimization module according to the physical characteristics of human movement.\
