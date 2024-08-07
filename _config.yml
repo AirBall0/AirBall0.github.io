@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Bruce Wang / Personal Homepage"
+title                    : "Bruce Wang"
 title_separator          : "-"
 name                     : &name "Bruce Wang (王啟翔)"
 description              : &description "second year master student"
