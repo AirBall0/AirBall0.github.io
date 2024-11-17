@@ -7,7 +7,7 @@ venue: "Nanjing University of Aeronautics and Astronautics, department of Automa
 date: 2022-09-01
 location: "Naning, China"
 ---
-Graduation GPA: 85/100
+Graduation GPA: 86.8/100
 
 
 
