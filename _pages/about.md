@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Wang Qixiang, and I am a master student(second year) majoring in electrical engineering in [School of Automation](https://cae.nuaa.edu.cn/), [Nanjing University of Aeronautics and Astronautics](http://nuaa.edu.cn/).\
+My name is Wang Qixiang, and I am a master student(third year) majoring in electrical engineering in [School of Automation](https://cae.nuaa.edu.cn/), [Nanjing University of Aeronautics and Astronautics](http://nuaa.edu.cn/).\
 Before that, I received my B.S.degree from the Kunming University of Science and Technology.\
 Recently, I worked as a research intern with Prof. [Hongfei Xue](https://havocfixer.github.io/) at the University of North Carolina at Charlotte (UNCC), focusing on leveraging wireless signals to enhance **human activity recognition** and **pose estimation**.
 
