@@ -11,7 +11,7 @@ My name is Wang Qixiang, and I am a master student(third year) majoring in elect
 Before that, I received my B.S.degree from the Kunming University of Science and Technology.\
 Recently, I worked as a research intern with Prof. [Hongfei Xue](https://havocfixer.github.io/) at the University of North Carolina at Charlotte (UNCC), focusing on leveraging wireless signals to enhance **human activity recognition** and **pose estimation**.
 
-My research interests lie in the **Computer Vision**, **intersection of Internet of Things and Artificial Intelligence(AIoT)** and **Robotics**.
+My research interests lie in the **Computer Vision**, **Internet of Things and Artificial Intelligence(AIoT)** and **Robotics**.
 
 
 You can find my CV here: [Qixiang Wang's Curriculum Vitae](../assets/Qixiang_Wang_cv.pdf).
