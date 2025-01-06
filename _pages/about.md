@@ -14,6 +14,6 @@ Recently, I worked as a research intern with Prof. [Hongfei Xue](https://havocfi
 My research interests lie in the **Computer Vision**, **Internet of Things and Artificial Intelligence(AIoT)** and **Robotics**.
 
 
-You can find my CV here: [Qixiang Wang's Curriculum Vitae](../assets/Qixiang_Wang_cv.pdf).
+You can find my CV here: [Qixiang Wang's Curriculum Vitae](../assets/Qixiang_Wang_CV.pdf).
 
 [Email](mailto:brucewang258@gmail.com) / [Wechat](../images/wechat.png)
